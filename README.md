@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Eman Čičkučić!  
 
 ## 🚀 About Me  
-- 🌐 Certified in cybersecurity fundamentals and cloud security. 
+- 🌐 Certified in cybersecurity and cloud security. 
 - 🛠️ **Technical Skills**:  
   - Programming Languages: Python, C++  
   - Tools: Wireshark, Nmap, Kali Linux, Virtual Machines  
