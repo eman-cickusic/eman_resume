@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Eman Cickusic  
+# 👋 Hello, I'm Eman - Aspiring Security Analyst and Google Cloud Certified Professional!
 
 🌟 **Software Engineering Student @ International University of Sarajevo**  
 🚀 **Aspiring Security Analyst | Founder of SentinelGuard**  
