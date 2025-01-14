@@ -10,7 +10,23 @@
 
 <img align="right" height="150" src=""  />
 
-###
+### 🎓 Certifications  
+
+🎖️ **Google Cloud Certifications**:  
+- Cybersecurity Certificate  
+- Cloud Computing Foundations  
+- Network Engineer Learning Path  
+- Security Learning Path  
+
+🎖️ **Microsoft Certifications**:  
+- Azure Security Engineer Associate (AZ-500)  
+- Cybersecurity Analyst  
+- Cloud Support Associate  
+
+🎖️ **ISC² Certification (CC)**  
+🎖️ **Cisco Networking Academy**: Junior Cybersecurity Analyst Career Path  
+
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
@@ -34,6 +50,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
 </div>
 
+---
+
+## 🔨 Projects  
+
+### 1️⃣ **SentinelGuard - Threat Detector**  
+A Python-based threat detection tool designed to identify and neutralize network vulnerabilities efficiently.  
+
+### 2️⃣ **Cloud Security Analysis**  
+Developed and implemented security measures to safeguard cloud-based systems using Google Cloud and Azure technologies.  
+
+---
+
+## 🌟 Fun Facts  
+- 🏫 Active member of Google Developer Student Clubs (GDSC) and Google Developers Group (GDG) Sarajevo.  
+- 🌱 Always learning something new, recently completed Google Cloud Computing Foundations.  
+
 ###
 
 <div align="left">
@@ -47,11 +79,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/emanhz/emanhz/output/snake.svg" alt="Snake animation" />
-
-###
