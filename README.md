@@ -6,10 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanhz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src=""  />
-
 ### 🎓 Certifications  
 
 🎖️ **Google Cloud Certifications**:  
@@ -66,8 +62,9 @@ Developed and implemented security measures to safeguard cloud-based systems usi
 - 🏫 Active member of Google Developer Student Clubs (GDSC) and Google Developers Group (GDG) Sarajevo.  
 - 🌱 Always learning something new, recently completed Google Cloud Computing Foundations.  
 
-###
+---
 
+## 📫 How to Reach Me  
 <div align="left">
   <a href="https://www.linkedin.com/in/eman-cickusic/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
