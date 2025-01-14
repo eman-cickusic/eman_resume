@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Eman Čičkučić  
+# 👋 Hello, I'm Eman Cickusic  
 
 🌟 **Software Engineering Student @ International University of Sarajevo**  
 🚀 **Aspiring Security Analyst | Founder of SentinelGuard**  
