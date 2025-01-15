@@ -34,6 +34,11 @@
 #### **ISC²**  
 - ~~CC – Certified in Cybersecurity~~  
 
+#### **TryHackMe**
+- ~~SOC 1~~
+- ~~SOC 2~~
+- ~~Cyber Defense~~
+
 #### **Infosec**  
 - ~~Python for Cybersecurity~~  
 - ~~Cyber Incident Response~~  
