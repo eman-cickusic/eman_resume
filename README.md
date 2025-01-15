@@ -125,7 +125,7 @@ Developed and implemented security measures to safeguard cloud-based systems usi
 ---
 
 ## 📄 Resume  
-[Click here to download my resume](https://github.com/emanhz/emanhz/blob/main/Eman%20Cickusic%20Resume.pdf)
+[Click here to download my resume!](https://github.com/emanhz/emanhz/blob/main/Eman%20Cickusic%20Resume.pdf)
 
 ---
 
