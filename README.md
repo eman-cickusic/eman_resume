@@ -6,21 +6,66 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanhz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-### 🎓 Certifications  
+---
 
-🎖️ **Google Cloud Certifications**:  
-- Cybersecurity Certificate  
-- Cloud Computing Foundations  
-- Network Engineer Learning Path  
-- Security Learning Path  
+## 🎓 Certifications  
 
-🎖️ **Microsoft Certifications**:  
-- Azure Security Engineer Associate (AZ-500)  
-- Cybersecurity Analyst  
-- Cloud Support Associate  
+### 🟢 **Completed Certifications**  
+#### **Google**  
+- ~~Google Cloud Cybersecurity~~  
+- ~~Google Cloud Computing Foundations~~  
+- ~~Google Cloud Security Engineer~~  
+- ~~Google Cloud Engineer~~  
+- ~~Google Cloud Network Engineer~~  
 
-🎖️ **ISC² Certification (CC)**  
-🎖️ **Cisco Networking Academy**: Junior Cybersecurity Analyst Career Path  
+#### **Microsoft**  
+- ~~Azure Security Engineer Associate (AZ-500)~~  
+- ~~Cloud Support Associate~~  
+- ~~Cybersecurity Analyst~~  
+
+#### **ISC²**  
+- ~~CC – Certified in Cybersecurity~~  
+
+#### **Infosec**  
+- ~~Python for Cybersecurity~~  
+- ~~Cyber Incident Response~~  
+
+#### **EC-Council**  
+- ~~Cybersecurity Attack and Defense Fundamentals~~  
+
+#### **Palo Alto Networks**  
+- ~~Cybersecurity Academy~~  
+
+#### **Cisco Networking Academy**  
+- ~~Cyber Threat Management~~  
+- ~~Endpoint Security~~  
+- ~~Networking Basics~~  
+- ~~Junior Cybersecurity Analyst~~  
+
+#### **ArchX**  
+- ~~Foundation Level Threat Intelligence Analyst~~  
+
+#### **LinkedIn**  
+- ~~Leadership and Security Certificates~~  
+
+#### **OPSWAT Academy**  
+- ~~Introduction to Critical Infrastructure Protection~~  
+
+#### **Cybrary**  
+- ~~Log Analysis Basics~~  
+
+#### **Other Institutions**  
+- ~~AWS: Cloud Architecture and Security~~  
+- ~~Udemy: Cybersecurity, Python, C++, Wireshark, Nmap, PowerShell~~  
+- ~~Cisco Networking Academy: Networking and Security Essentials~~  
+- ~~Harvard University: Introduction to Cybersecurity~~  
+- ~~University of Colorado Boulder: Computer Security & Systems Management, Applied Cryptography~~  
+
+---
+
+### 🟡 **Certifications in Progress**  
+- **CompTIA Security+**  
+- **TCM Security: Practical SOC Analyst Associate**  
 
 ---
 
@@ -76,3 +121,15 @@ Developed and implemented security measures to safeguard cloud-based systems usi
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+---
+
+## 📄 Resume  
+[Click here to download my resume](#)
+
+---
+
+## 📊 Metrics  
+- **50+ vulnerabilities identified in labs and competitions.**  
+- **Deployed SIEM tools to analyze over 100 security events.**  
+- **Contributed to securing cloud systems with Google Cloud and Azure.**
