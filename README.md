@@ -103,14 +103,6 @@ Developed and implemented security measures to safeguard cloud-based systems usi
 
 ---
 
-## 📊 Metrics  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emanhz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true" height="200" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanhz&theme=nightowl&hide_border=true" height="200" alt="streak graph" />
-</div> 
-
----
-
 ## 🌟 Fun Facts  
 - 🏫 Active member of Google Developer Student Clubs (GDSC) and Google Developers Group (GDG) Sarajevo.  
 - 🌱 Always learning something new, recently completed Google Cloud Computing Foundations.
