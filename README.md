@@ -10,6 +10,14 @@
 
 ## 🎓 Certifications  
 
+---
+
+### 🟡 **Certifications in Progress**  
+- **CompTIA Security+**  
+- **TCM Security: Practical SOC Analyst Associate**
+
+---  
+
 ### 🟢 **Completed Certifications**  
 #### **Google**  
 - ~~Google Cloud Cybersecurity~~  
@@ -60,12 +68,6 @@
 - ~~Cisco Networking Academy: Networking and Security Essentials~~  
 - ~~Harvard University: Introduction to Cybersecurity~~  
 - ~~University of Colorado Boulder: Computer Security & Systems Management, Applied Cryptography~~  
-
----
-
-### 🟡 **Certifications in Progress**  
-- **CompTIA Security+**  
-- **TCM Security: Practical SOC Analyst Associate**  
 
 ---
 
