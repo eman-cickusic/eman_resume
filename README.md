@@ -111,7 +111,7 @@ Developed and implemented security measures to safeguard cloud-based systems usi
 ---
 
 ## 🌟 Fun Facts  
-- 🏫 Active member of Google Developer Student Clubs (GDSC) and Google Developers Group (GDG) Sarajevo.  
+- 🏫 Active member of Google Developers Group (GDG) Sarajevo.  
 - 🌱 Always learning something new, recently completed Google Cloud Computing Foundations.
   
 ---
