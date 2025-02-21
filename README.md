@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hello, I'm Eman - Aspiring Security Analyst and Google Cloud Certified Professional!</h2>
 
 
-## 🎓 Certifications  
+## 🎓 Certifications 
 
 ---
 
