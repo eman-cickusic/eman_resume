@@ -7,7 +7,6 @@
 
 ### 🟡 **Certifications in Progress**  
 - **CompTIA Security+**  
-- **TCM Security: Practical SOC Analyst Associate**
 
 ---  
 
