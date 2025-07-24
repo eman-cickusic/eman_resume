@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eman Čičkušić – Resume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <h1 style="text-align: center;">Eman Čičkušić</h1>
+    <p class="contact-info" style="text-align: center;">
+        <a href="mailto:cickusiceman@gmail.com">cickusiceman@gmail.com</a> |
+        +387 62 814 471 |
+        <a href="https://github.com/eman-cickusic" target="_blank">GitHub</a> |
+        <a href="https://www.linkedin.com/in/eman-cickusic/" target="_blank">LinkedIn</a>
+    </p>
+
+    <section>
+        <h2>Education</h2>
+        <p><strong>International University of Sarajevo</strong>, Sarajevo, Bosnia and Herzegovina<br>
+        Bachelor of Software Engineering | GPA: 3.8 (2023–Present)</p>
+        <p><strong>Certifications:</strong> Google Cloud Engineer</p>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <p><strong>Intelligent Cloud Operations Agent (LangChain & GCP)</strong><br>
+        Python | Terraform | Firestore | BigQuery</p>
+        <ul>
+            <li>Architected and built a modular AI agent using Python, LangChain’s ReAct framework, and a self-hosted Hugging Face Transformer model (google/flan-t5-base) for advanced Natural Language Processing (NLP) and decision-making.</li>
+            <li>Integrated the agent with core GCP services via Python APIs, creating tools to:
+                <ul>
+                    <li>Manage tasks by performing CRUD operations in a NoSQL database (Firestore).</li>
+                    <li>Query live operational data from Cloud Logging and BigQuery.</li>
+                    <li>Monitor infrastructure health by fetching real-time data from Cloud Monitoring.</li>
+                    <li>Trigger serverless workflows by invoking HTTP-based Cloud Functions.</li>
+                </ul>
+            </li>
+            <li>Enabled Infrastructure-as-Code (IaC) awareness by developing a tool to parse and query Terraform state files (.tfstate) directly from a secure Google Cloud Storage (GCS) bucket.</li>
+            <li>Deployed the entire application stack (FastAPI, Gradio UI, LLM) on a GCP Compute Engine VM, meticulously configured with IAM service accounts and VPC firewall rules to ensure secure, zero-cost operation exclusively within the GCP free tier.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Work Experience</h2>
+        <p><strong>Vodafone</strong>, Remote, Netherlands<br>
+        Junior Data Engineer (05/2024–10/2024)</p>
+        <ul>
+            <li>Designed and optimized serverless, data pipelines on Google Cloud Platform (GCP) using Python, Pandas, and Node.js, Cloud Functions, automating ingestion and transformation of high-volume partner data.</li>
+            <li>Provisioned and managed cloud infrastructure as code (IaC) with Terraform, deploying resources like Cloud Storage, BigQuery, Cloud Functions, and IAM policies in a fully repeatable and version-controlled environment.</li>
+            <li>Developed a scalable, schema-flexible data processing system (“Smart Sorting Machine”) capable of detecting and transforming multiple file versions into a standardized format; implemented error-handling logic to redirect malformed files for manual inspection.</li>
+            <li>Re-architected BigQuery data warehousing strategy, replacing fragmented legacy views with Hive-partitioned external tables, resulting in improved query performance and reduced storage and compute costs.</li>
+            <li>Strengthened platform security by migrating hardcoded secrets to Google Secret Manager and enforcing least-privilege IAM roles, aligning with GCP best practices for secure and compliant cloud operations.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Leadership & Activities</h2>
+        <p><strong>Google Developers Group Sarajevo</strong> – Active Member & GCP Mentor (2023–Present)<br>
+        Engaged in technical discussions, workshops, and conferences, contributing to the growth of the developer community.</p>
+        <p><strong>IUS Google Developer Students Club</strong> – Team Lead (10/2023–01/2025)<br>
+        Organized impactful technical events and workshops: Spearheaded collaborative projects and hosted 3+ events per semester, engaging over 100 students and increasing participation by 30% compared to the previous year.</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <p>Google Cloud Platform, Google BigQuery, Google Kubernetes Engine, Pandas, SQL, Cloud Architecture, Cloud Computing, Identity and Access Management (IAM), Cloud Functions, Load balancing, Bash, Git, DevOps, Ansible, Docker, Jenkins, Infrastructure as Code (IaC), Terraform, YAML, GKE, CI/CD, Kubernetes, AWS, Microsoft Azure, Kali Linux, Ubuntu, C++, Python, Java, Wireshark, Nmap, Virtual Machines, Windows PowerShell, Metasploit, Jira, Slack, English (Certified C1), German (B1)</p>
+    </section>
+</div>
+</body>
+</html>
